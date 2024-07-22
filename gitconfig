@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fcornen@mandarine-gestion.com
+	name = Fabien Cornen
